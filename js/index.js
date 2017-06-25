@@ -12,13 +12,13 @@ $(document).ready(function(){
 		}
 	}
 	var todos = todoStorage.fetch() || [{
-			"name": "eat what???"
+			"name": "大后天是与女朋友认识10年的日子记得送礼物哦！！！"
 		},
 		{
-			"name": "docis"
+			"name": "后天情人节记得给女朋友送礼物哦！！！"
 		},
 		{
-			"name": "MacDonaold"
+			"name": "明天女朋友生日记得送礼物哦！！！"
 		}
 	]
 	for (var i = 0; i < todos.length; i++) {

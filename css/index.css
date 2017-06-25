@@ -13,6 +13,9 @@ body{
 	height: 100vh;
 	background-color: #95D317;
 	margin: 0px auto;
+
+	padding-top: 20px;
+	
 }
 
 input{
